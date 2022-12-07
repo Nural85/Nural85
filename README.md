@@ -5,3 +5,7 @@
 - 🔭 I’m QA Engineer
 - 📫 How to reach me nural99685@gmail.com
 - 💬 I speak Russian (native), English (A1)
+
+  
+<h3> Connect with me:</h3>
+  
