@@ -3,7 +3,6 @@
 
 
 - 🔭 I’m QA Engineer
-- 📫 How to reach me <a href=«mailto:alnurgaliev64@gmail.com?subject>alnurgaliev64@gmail.com</a>
 - 💬 I speak Russian (native), English (A1)
 
  
