@@ -1,8 +1,16 @@
-<h1 align="center">Hi there, I'm Alisher</a> 
-<h3 align="center"> Manual QA Engineer from Russia 🇷🇺</h3>
+[![Header](https://github.com/forest85/forest85/blob/main/assets/header.png)](https://hh.ru/resume/b6dbe1d0ff0b0374430039ed1f39564e555935)
 
 
-- 🔭 I’m QA Engineer
-- 💬 I speak Russian (native), English (A1)
+## I'm a QA Engineer 
+
+Latest youtube video
+
+### languages and tools
+[Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira?logoColor=1252D9)
+
+
+
+
+follow me
 
  
