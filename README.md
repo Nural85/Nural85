@@ -6,7 +6,7 @@
 Latest youtube video
 
 ### languages and tools
-[Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira?logoColor=1252D9)
+![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira?logoColor=1252D9)
 
 
 
