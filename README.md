@@ -16,8 +16,6 @@
 - [Checklists](https://github.com/Forest85/checklist)
 - [Test-Suites and Test-Cases](https://github.com/Forest85/test-cases)
 - [Bug-Reports](https://github.com/Forest85/bug-reports)
-- [SQL Queries](https://github.com/Forest85/SQL)
-- [Postman Collections](https://github.com/Forest85/postman)
 
 ### Socials
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/nurgd85/)
