@@ -3,7 +3,6 @@
 
 ## I'm a QA Engineer 
 
-Latest youtube video
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -25,3 +24,4 @@ Latest youtube video
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](www.linkedin.com/in/alisher-nurgaliev)
 
  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeyshpavda)](https://github.com/anuraghazra/github-readme-stats)
