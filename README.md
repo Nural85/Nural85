@@ -1,8 +1,6 @@
-[![Header](https://github.com/Forest85/Forest85/blob/main/assets/Header.png)](https://hh.ru/resume/b6dbe1d0ff0b0374430039ed1f39564e555935)
-
-
+[![Header](https://github.com/Forest85/Forest85/blob/main/assets/Header.png)]
 ## I'm a QA Engineer 
-
+## My CV
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -15,15 +13,16 @@
 ![Header](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=html5&logoColor=E84E2A)
 
 ### Testing Documentation
+- [Checklists](https://github.com/Forest85/checklist)
+- [Test-Suites and Test-Cases](https://github.com/Forest85/test-cases)
+- [Bug-Reports](https://github.com/Forest85/bug-reports)
+- [SQL Queries](https://github.com/Forest85/SQL)
+- [Postman Collections](https://github.com/Forest85/postman)
 
-
-
-### Socials:
+### Socials
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/nurgd85/)
 [![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/nurgd85)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](www.linkedin.com/in/alisher-nurgaliev)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/alishernurgaliev)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/alexeyshpavda)
-
+[![Header](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/alishernurgaliev)
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Forest85&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
