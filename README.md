@@ -22,6 +22,8 @@
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/nurgd85/)
 [![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/nurgd85)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](www.linkedin.com/in/alisher-nurgaliev)
+[![Header](https://img.shields.io/badge/VKontakte-090909?style=for-the-badge&logo=vkontakte&logoColor=0073b1)](https://vk.com/alishernurgaliev)
+
 
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Forest85&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
