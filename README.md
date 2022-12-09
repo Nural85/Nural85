@@ -14,14 +14,14 @@ Latest youtube video
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=html5&logoColor=E84E2A)
-![Header](https://img.shields.io/badge/JMeter-090909?style=for-the-badge&logo=jmeter&logoColor=A82621)
-![Header](https://img.shields.io/badge/XMind-090909?style=for-the-badge&logo=xmind&logoColor=E84E2A)
-![Header](https://img.shields.io/badge/SoapUI-090909?style=for-the-badge&logo=soapui&logoColor=428035)
 
 ### Testing Documentation
 
 
 
-follow me
+### Socials:
+[![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/nurgd85/)
+[![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/nurgd85)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](www.linkedin.com/in/alisher-nurgaliev)
 
  
