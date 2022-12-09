@@ -1,4 +1,4 @@
-[![Header](https://github.com/Forest85/Forest85/blob/main/assets/Header.png)]
+![Header](https://github.com/Forest85/Forest85/blob/main/assets/Header.png)
 ## I'm a QA Engineer 
 ## My CV
 
