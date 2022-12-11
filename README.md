@@ -1,6 +1,6 @@
-![Header](https://github.com/Nural85/Nural85/blob/main/assets/Header.png)
-## I'm a QA Engineer 
-[![Header](https://img.shields.io/badge/Summary-090909?style=for-the-badge&logo=summary&logoColor=9939a3)](https://drive.google.com/file/d/1K-dYEQOo166jjeK1p2cy6Q-9bD12Mp0a/view?usp=sharing)
+![Header](https://github.com/Nural85/Nural85/blob/main/assets/header.png)
+## Тестировщик ПО
+[![Header](https://img.shields.io/badge/Резюме-090909?style=for-the-badge&logo=Резюме&logoColor=9939a3)](https://drive.google.com/file/d/1K-dYEQOo166jjeK1p2cy6Q-9bD12Mp0a/view?usp=sharing)
 
 ### Инструменты для тестирования
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
