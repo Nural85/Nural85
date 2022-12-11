@@ -24,4 +24,4 @@
 [![Header](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/alishernurgaliev)
  [![Header](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=4F7DB3)](https://t.me/+77054867370)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Forest85&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nural85&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
