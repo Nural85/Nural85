@@ -2,7 +2,7 @@
 ## QA Engineer
 [![Header](https://img.shields.io/badge/Резюме-090909?style=for-the-badge&logo=Резюме&logoColor=9939a3)](https://drive.google.com/file/d/1ff9GuGyJHf0FhkjtDOkdUXpnK6J_WPwb/view?usp=sharing)
 
-### Инструменты для тестирования
+### Языки и инструменты для тестирования
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
@@ -11,6 +11,8 @@
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=html5&logoColor=E84E2A)
+![Header](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java&logoColor=4F7DB3)
+![Header](https://img.shields.io/badge/Selenium-090909?style=for-the-badge&logo=selenium&logoColor=008000)
 
 ### Тестовая документация
 - [Checklists](https://github.com/Forest85/checklist)
