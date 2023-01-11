@@ -12,7 +12,6 @@
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=html5&logoColor=E84E2A)
 ![Header](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java&logoColor=4F7DB3)
-![Header](https://img.shields.io/badge/Selenium-090909?style=for-the-badge&logo=selenium&logoColor=008000)
 
 ### Тестовая документация
 - [Checklists](https://github.com/Forest85/checklist)
